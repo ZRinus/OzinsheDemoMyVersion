@@ -1,0 +1,6 @@
+framework module Pods_ozinshe {
+  umbrella header "Pods-ozinshe-umbrella.h"
+
+  export *
+  module * { export * }
+}

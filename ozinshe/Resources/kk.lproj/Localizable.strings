@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  ozinshe
+
+ Created by Rinat Zaripov on 30.09.2023.
+  
+*/
+"MY_PROFILE" = "Менің профилім";
+"LANGUAGE" = "Тіл";
+"CONNECTION_ERROR" = "Қосылым қатесі";
+"HELLO" = "Салем";
+"SING_IN" = "Аккаунтқа кіріңіз";
